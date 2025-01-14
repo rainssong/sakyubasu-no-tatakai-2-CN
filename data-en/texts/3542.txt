@@ -1,0 +1,12 @@
+[
+xmin 6
+ymin -9
+xmax 676
+ymax 204
+][
+font 4
+height 200
+color #333333
+y 180
+spacingpair "i" "l" -1
+]Skill:

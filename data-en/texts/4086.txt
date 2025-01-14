@@ -1,0 +1,11 @@
+[
+xmin -9
+ymin -2
+xmax 1952
+ymax 295
+][
+font 4
+height 240
+color #333333
+y 220
+]Attack Range:

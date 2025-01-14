@@ -1,0 +1,12 @@
+[
+xmin 19
+ymin -2
+xmax 1646
+ymax 293
+][
+font 4
+height 240
+color #333333
+x 20
+y 220
+]Corruption:

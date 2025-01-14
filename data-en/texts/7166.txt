@@ -1,0 +1,16 @@
+[
+xmin 3880
+ymin 187
+xmax 12959
+ymax 1669
+][
+font 4
+height 1440
+color #ffff99
+x 3940
+y 1300
+spacingpair "A" "c" -1
+spacingpair "i" "d" -1
+spacingpair "d" " " -1
+spacingpair "y" "" -1
+]Acid Spray

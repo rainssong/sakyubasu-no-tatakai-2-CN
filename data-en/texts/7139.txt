@@ -1,0 +1,15 @@
+[
+xmin 3071
+ymin 187
+xmax 12959
+ymax 1345
+][
+font 4
+height 1440
+color #ff9999
+x 3000
+y 1300
+spacingpair "P" "e" -1
+spacingpair "i" "o" -1
+spacingpair "o" "n" -1
+]Penetration

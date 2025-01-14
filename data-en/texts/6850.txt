@@ -1,0 +1,16 @@
+[
+xmin 2645
+ymin 187
+xmax 12959
+ymax 1345
+][
+font 4
+height 1440
+color #99cccc
+x 2600
+y 1300
+spacingpair "i" "e" -1
+spacingpair "d" " " -1
+spacingpair "o" "m" -1
+spacingpair "m" "e" -1
+]Shield Dome

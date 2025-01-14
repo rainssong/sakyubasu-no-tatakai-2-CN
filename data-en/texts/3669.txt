@@ -1,0 +1,11 @@
+[
+xmin 19
+ymin -9
+xmax 403
+ymax 201
+][
+font 4
+height 200
+color #000000
+y 180
+]R:

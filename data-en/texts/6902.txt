@@ -1,0 +1,15 @@
+[
+xmin 3892
+ymin 187
+xmax 12959
+ymax 1669
+][
+font 4
+height 1440
+color #af00af
+x 3820
+y 1300
+spacingpair "N" "i" -1
+spacingpair "i" "g" -1
+spacingpair "m" "a" -1
+]Nightmare

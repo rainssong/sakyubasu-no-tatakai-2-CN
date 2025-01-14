@@ -1,0 +1,15 @@
+[
+xmin 3072
+ymin 187
+xmax 12959
+ymax 1345
+][
+font 4
+height 1440
+color #cc0000
+x 3000
+y 1300
+spacing "o" -1
+spacingpair "i" "n" -1
+spacingpair "d" "" -1
+]Drain Blood

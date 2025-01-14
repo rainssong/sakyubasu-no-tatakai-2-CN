@@ -1,0 +1,1 @@
+Lowest ranking available equipment will be selected from inventory

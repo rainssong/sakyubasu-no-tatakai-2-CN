@@ -1,0 +1,12 @@
+[
+xmin 92
+ymin 17
+xmax 660
+ymax 347
+][
+font 4
+height 360
+color #ffffff
+x 80
+y 320
+]Z

@@ -1,0 +1,17 @@
+[
+xmin 131
+ymin 17
+xmax 1583
+ymax 882
+][
+font 4
+height 360
+color #ffffff
+x 400
+y 320
+]Set[
+x 120
+y 780
+spacingpair "u" "a" -1
+spacingpair "d" "" -1
+]Squad

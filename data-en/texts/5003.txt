@@ -1,0 +1,13 @@
+[
+xmin 51
+ymin -2
+xmax 1088
+ymax 293
+][
+font 4
+height 240
+color #993333
+x 40
+y 220
+spacing ">" -1
+]Skip >>

@@ -1,0 +1,14 @@
+[
+xmin 2093
+ymin 187
+xmax 12959
+ymax 1345
+][
+font 4
+height 1440
+color #996699
+x 2060
+y 1300
+spacing "i" -1
+spacingpair "d" " " -1
+]Shield Matrix

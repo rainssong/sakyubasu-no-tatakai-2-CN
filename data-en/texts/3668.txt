@@ -1,0 +1,18 @@
+[
+xmin -40
+ymin -40
+xmax 1323
+ymax 271
+readonly 1
+noselect 1
+html 1
+useoutlines 1
+font 4
+height 200
+color #ff000000
+align left
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]<p align="left"><font face="Eras Bold ITC" size="10" color="#000000" letterSpacing="0.000000" kerning="1">Skill Name</font></p>

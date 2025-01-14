@@ -1,0 +1,20 @@
+[
+xmin -3284
+ymin -40
+xmax 2995
+ymax 720
+multiline 1
+readonly 1
+noselect 1
+wasstatic 1
+useoutlines 1
+font 4
+height 240
+color #ff000000
+align left
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]Eva harvests her inner rage, increasing all 
+damage by 10 for the next 4 rounds.

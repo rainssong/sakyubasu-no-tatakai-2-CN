@@ -1,0 +1,13 @@
+[
+xmin 336
+ymin 17
+xmax 1385
+ymax 352
+][
+font 4
+height 360
+color #b39348
+x 320
+y 320
+spacingpair "i" "t" -1
+]Exit

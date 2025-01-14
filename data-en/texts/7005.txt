@@ -1,0 +1,17 @@
+[
+xmin 2305
+ymin 187
+xmax 12959
+ymax 1669
+][
+font 4
+height 1440
+color #6699cc
+x 2260
+y 1300
+spacingpair "C" "r" -1
+spacingpair "y" "s" -1
+spacingpair "s" "t" -1
+spacingpair "W" "a" -1
+spacingpair "d" "" -1
+]Crystal Ward

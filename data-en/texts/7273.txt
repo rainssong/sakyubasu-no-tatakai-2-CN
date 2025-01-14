@@ -1,0 +1,16 @@
+[
+xmin 2117
+ymin 187
+xmax 12959
+ymax 1669
+][
+font 4
+height 1440
+color #6699cc
+x 2140
+y 1300
+spacingpair "J" "e" -1
+spacingpair "o" "u" -1
+spacingpair "s" " " -1
+spacingpair "R" "a" -1
+]Jealous Rage

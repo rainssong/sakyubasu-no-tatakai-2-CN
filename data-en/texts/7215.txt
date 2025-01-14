@@ -1,0 +1,14 @@
+[
+xmin 2545
+ymin 187
+xmax 12959
+ymax 1669
+][
+font 4
+height 1440
+color #3232ff
+x 2500
+y 1300
+spacingpair "i" "g" -1
+spacingpair "d" "" -1
+]Might Guard

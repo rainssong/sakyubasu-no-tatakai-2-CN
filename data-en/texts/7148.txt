@@ -1,0 +1,17 @@
+[
+xmin 502
+ymin 187
+xmax 14539
+ymax 1656
+][
+font 4
+height 1440
+color #ff9999
+x 460
+y 1300
+spacing "s" -1
+spacing "i" -1
+spacingpair "o" "n" -1
+spacingpair "F" "i" -1
+spacingpair "d" "" -1
+]Suppression Field

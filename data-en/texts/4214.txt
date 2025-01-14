@@ -1,0 +1,13 @@
+[
+xmin 320
+ymin 17
+xmax 2904
+ymax 352
+translatex 309
+][
+font 4
+height 360
+color #000000
+y 320
+spacingpair "i" "t" -1
+]Select a Unit

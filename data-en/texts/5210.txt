@@ -1,0 +1,18 @@
+[
+xmin 2672
+ymin -40
+xmax 2964
+ymax 440
+readonly 1
+noselect 1
+html 1
+useoutlines 1
+font 4
+height 320
+color #ffcccccc
+align center
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]<p align="center"><font face="Eras Bold ITC" size="16" color="#cccccc" letterSpacing="0.000000" kerning="0">9</font></p><p align="center"></p>

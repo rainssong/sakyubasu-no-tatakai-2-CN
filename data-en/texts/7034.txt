@@ -1,0 +1,19 @@
+[
+xmin 2112
+ymin 187
+xmax 12959
+ymax 1669
+][
+font 4
+height 1440
+letterspacing -1
+color #ffff66
+x 2060
+y 1300
+spacing "t" 1
+spacingpair "r" "y" 1
+spacingpair "a" "l" 1
+spacingpair "l" " " 1
+spacingpair " " "B" 1
+spacingpair "B" "o" 1
+]Crystal Boost

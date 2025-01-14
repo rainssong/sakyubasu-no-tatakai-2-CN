@@ -1,0 +1,17 @@
+[
+xmin 873
+ymin 17
+xmax 2344
+ymax 656
+translatex 863
+][
+font 4
+height 360
+color #000000
+y 320
+]LIGHT[
+font 4
+height 160
+x 0
+y 600
+]HEAL / FLARE

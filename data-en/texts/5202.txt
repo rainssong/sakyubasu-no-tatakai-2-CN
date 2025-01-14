@@ -1,0 +1,12 @@
+[
+xmin 1159
+ymin -2
+xmax 3110
+ymax 295
+translatex 1148
+][
+font 4
+height 240
+color #cccccc
+y 220
+]Special Ability

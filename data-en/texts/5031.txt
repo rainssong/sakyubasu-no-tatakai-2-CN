@@ -1,0 +1,15 @@
+[
+xmin 179
+ymin 4
+xmax 1469
+ymax 639
+][
+font 4
+height 280
+color #000000
+x 160
+y 260
+]ENEMY[
+x 280
+y 620
+]TURN

@@ -1,0 +1,140 @@
+trait method QName(PackageNamespace(""),"loadDialogue")
+   dispid 0
+   method
+      name null
+      param QName(PackageNamespace(""),"int")
+      returns QName(PackageNamespace(""),"void")
+      
+      body
+         maxstack 5
+         localcount 3
+         initscopedepth 10
+         maxscopedepth 11
+         
+         code
+            getlocal0
+            pushscope
+            getlocal0
+            getlocal1
+            initproperty QName(PackageNamespace(""),"diaCode")
+            getlex QName(PackageNamespace(""),"Math")
+            getlocal0
+            getproperty QName(PackageNamespace(""),"diaCode")
+            pushint 100000
+            divide
+            callproperty QName(PackageNamespace(""),"floor"), 1
+            pushbyte 8
+            ifne ofs0024
+            findpropstrict QName(PackageNamespace(""),"gotoAndStop")
+            pushbyte 2
+            callpropvoid QName(PackageNamespace(""),"gotoAndStop"), 1
+   ofs0024:
+            jump ofsa05a
+   ofs0028:
+            label
+            getlocal0
+            pushbyte 1
+            dup
+            dup
+            callpropvoid QName(PackageNamespace(""),"loadPortrait"), 3
+            getlocal0
+            getproperty QName(PackageNamespace(""),"diaBox")
+            pushstring ""
+            setproperty QName(PackageNamespace(""),"text")
+            jump ofs1647b
+   ofs003f:
+            label
+            getlocal0
+            pushbyte 22
+            pushbyte 1
+            dup
+            callpropvoid QName(PackageNamespace(""),"loadPortrait"), 3
+            getlocal0
+            getproperty QName(PackageNamespace(""),"diaBox")
+            pushstring "zzzzzzzzZZZZZZZZZZZzzzzzzzz...."
+            setproperty QName(PackageNamespace(""),"text")
+            jump ofs1647b
+   ofs0058:
+            label
+            getlocal0
+            pushbyte 22
+            pushbyte 1
+            dup
+            callpropvoid QName(PackageNamespace(""),"loadPortrait"), 3
+            getlocal0
+            getproperty QName(PackageNamespace(""),"diaBox")
+            pushstring "zzzzzzzzzzzzzz....."
+            setproperty QName(PackageNamespace(""),"text")
+            jump ofs1647b
+   ofs0071:
+            label
+            getlocal0
+            pushbyte 1
+            dup
+            dup
+            callpropvoid QName(PackageNamespace(""),"loadPortrait"), 3
+            getlocal0
+            getproperty QName(PackageNamespace(""),"diaBox")
+            pushstring "*敲门声* *敲门声*"
+            setproperty QName(PackageNamespace(""),"text")
+            jump ofs1647b
+   ofs0089:
+            label
+            getlocal0
+            pushbyte 22
+            pushbyte 1
+            dup
+            callpropvoid QName(PackageNamespace(""),"loadPortrait"), 3
+            getlocal0
+            getproperty QName(PackageNamespace(""),"diaBox")
+            pushstring "zzzzzz....嗯嗯嗯?"
+            setproperty QName(PackageNamespace(""),"text")
+            jump ofs1647b
+   ofs00a2:
+            label
+            getlocal0
+            pushbyte 1
+            dup
+            dup
+            callpropvoid QName(PackageNamespace(""),"loadPortrait"), 3
+            getlocal0
+            getproperty QName(PackageNamespace(""),"diaBox")
+            pushstring "*砰* *砰* *砰*"
+            setproperty QName(PackageNamespace(""),"text")
+            jump ofs1647b
+   ofs00ba:
+            label
+            getlocal0
+            pushbyte 23
+            pushbyte 1
+            dup
+            callpropvoid QName(PackageNamespace(""),"loadPortrait"), 3
+            getlocal0
+            getproperty QName(PackageNamespace(""),"diaBox")
+            pushstring "声音1: 快从床上滚下来,你这懒鬼!"
+            setproperty QName(PackageNamespace(""),"text")
+            jump ofs1647b
+   ofs00d3:
+            label
+            getlocal0
+            pushbyte 1
+            pushbyte 24
+            pushbyte 1
+            callpropvoid QName(PackageNamespace(""),"loadPortrait"), 3
+            getlocal0
+            getproperty QName(PackageNamespace(""),"diaBox")
+            pushstring "声音2: 这不是对待我们女主人的态度!"
+            setproperty QName(PackageNamespace(""),"text")
+            jump ofs1647b
+   ofs00ed:
+            label
+            getlocal0
+            pushbyte 23
+            pushbyte 1
+            dup
+            callpropvoid QName(PackageNamespace(""),"loadPortrait"), 3
+            getlocal0
+            getproperty QName(PackageNamespace(""),"diaBox")
+            pushstring "声音1: 哦...抱歉..快从床上滚下来,你这懒惰的婊子!"
+            setproperty QName(PackageNamespace(""),"text")
+            jump ofs1647b

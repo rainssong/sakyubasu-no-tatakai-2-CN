@@ -1,0 +1,21 @@
+[
+xmin -401
+ymin -40
+xmax 6100
+ymax 1078
+multiline 1
+readonly 1
+noselect 1
+wasstatic 1
+useoutlines 1
+font 4
+height 240
+color #ff663300
+align center
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]Blightwall Gate is more of a fortress than a 
+blockade.  Gluttony claimed this as her home 
+after installing a massive winery and brewery.

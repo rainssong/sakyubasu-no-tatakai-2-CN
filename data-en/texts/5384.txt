@@ -1,0 +1,15 @@
+[
+xmin -3517
+ymin 149
+xmax 7528
+ymax 1124
+translatex -3580
+][
+font 4
+height 1200
+color #ffffff
+y 1080
+spacing "s" -1
+spacingpair "i" "s" -1
+spacingpair "f" " " -1
+]Prisoners of War

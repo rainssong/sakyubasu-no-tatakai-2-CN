@@ -1,0 +1,1 @@
+Runes will automatically be removed before sending unit to chant

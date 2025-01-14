@@ -1,0 +1,12 @@
+[
+xmin 1029
+ymin -2
+xmax 2091
+ymax 241
+translatex 1017
+][
+font 4
+height 240
+color #ffffff
+y 220
+]RUNES

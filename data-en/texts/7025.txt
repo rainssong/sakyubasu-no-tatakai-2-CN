@@ -1,0 +1,15 @@
+[
+xmin 2326
+ymin 187
+xmax 12959
+ymax 1345
+][
+font 4
+height 1440
+color #ffff66
+x 2260
+y 1300
+spacing "o" -1
+spacingpair "N" "e" -1
+spacingpair "s" "t" -1
+]Nectar Boost

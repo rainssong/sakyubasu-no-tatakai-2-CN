@@ -1,0 +1,12 @@
+[
+xmin 1095
+ymin -2
+xmax 2024
+ymax 241
+translatex 1084
+][
+font 4
+height 240
+color #ffffff
+y 220
+]GEAR

@@ -1,0 +1,12 @@
+[
+xmin 1160
+ymin 74
+xmax 2336
+ymax 674
+translatex 1192
+][
+font 4
+height 720
+color #ffffff
+y 660
+]X[space -1]

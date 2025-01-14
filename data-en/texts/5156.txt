@@ -1,0 +1,12 @@
+[
+xmin 1389
+ymin -14
+xmax 1653
+ymax 166
+translatex 1378
+][
+font 4
+height 160
+color #ffffff
+y 140
+]Z

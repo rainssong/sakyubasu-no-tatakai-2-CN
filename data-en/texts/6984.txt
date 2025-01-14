@@ -1,0 +1,13 @@
+[
+xmin 3921
+ymin 187
+xmax 12959
+ymax 1345
+][
+font 4
+height 1440
+color #cccccc
+x 3860
+y 1300
+spacingpair "i" "v" -1
+]Over Drive

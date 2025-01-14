@@ -1,0 +1,12 @@
+[
+xmin 1397
+ymin -2
+xmax 3110
+ymax 295
+translatex 1384
+][
+font 4
+height 240
+color #cccccc
+y 220
+]Class Ability

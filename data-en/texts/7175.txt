@@ -1,0 +1,15 @@
+[
+xmin 3322
+ymin 187
+xmax 12959
+ymax 1669
+][
+font 4
+height 1440
+color #33cc66
+x 3300
+y 1300
+spacingpair "o" "x" -1
+spacingpair "i" "c" -1
+spacingpair "y" "" -1
+]Toxic Spray

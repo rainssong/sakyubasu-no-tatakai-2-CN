@@ -1,0 +1,19 @@
+[
+xmin -1028
+ymin -40
+xmax 16767
+ymax 1905
+multiline 1
+readonly 1
+noselect 1
+wasstatic 1
+useoutlines 1
+font 4
+height 1440
+color #ffff99cc
+align center
+leftmargin 0
+rightmargin 0
+indent 0
+leading 0
+]Whose Dick is That?

@@ -1,0 +1,15 @@
+[
+xmin 1437
+ymin 187
+xmax 14639
+ymax 1345
+][
+font 4
+height 1440
+letterspacing -1
+color #66cc66
+x 1360
+y 1300
+spacingpair "H" "o" 1
+spacingpair " " "V" 1
+]Hoodoo Voodoo

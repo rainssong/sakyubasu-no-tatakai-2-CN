@@ -1,0 +1,226 @@
+[
+xmin 510
+ymin 56
+xmax 15128
+ymax 5869
+translatex 507
+][
+font 4
+height 360
+color #999999
+y 320
+spacing "i" -1
+spacing "u" -1
+spacingpair " " "f" 31
+spacingpair " " "g" 31
+spacingpair " " "c" 31
+spacingpair " " "m" 31
+spacingpair " " "o" 31
+spacingpair " " "a" 31
+spacingpair "p" "h" -1
+spacingpair " " "s" 31
+spacingpair " " "n" 31
+spacingpair " " " " 31
+spacingpair " " "B" 31
+spacingpair "B" "y" -1
+spacingpair " " "t" 31
+spacingpair " " "" -45
+]The follow game contains material of a graphic, sexual nature.  By choosing to [
+x 0
+y 780
+spacing "i" -1
+spacing "u" -1
+spacing "d" -1
+spacingpair " " "y" 89
+spacingpair " " "a" 89
+spacingpair "k" "n" -1
+spacingpair " " "t" 89
+spacingpair " " "l" 89
+spacingpair " " "1" 89
+spacingpair " " "o" 89
+spacingpair " " "" -39
+]continue, you are acknowledging that you are at least 18 years of age and [
+x 0
+y 1240
+spacing "i" -1
+spacing "u" -1
+spacingpair " " "c" 5
+spacingpair "p" "a" -1
+spacingpair " " "o" 5
+spacingpair " " "v" 5
+spacingpair " " "s" 5
+spacingpair " " "m" 5
+spacingpair " " "w" 5
+spacingpair " " "y" 5
+spacingpair " " "l" 5
+spacingpair " " " " 5
+spacingpair " " "T" 5
+spacingpair " " "a" 5
+spacingpair " " "t" 5
+spacingpair " " "f" 5
+spacingpair " " "" -47
+]legally capable of viewing such material where you live.  The author of this flash [
+x 0
+y 1680
+spacing "i" -1
+spacing "d" -1
+spacing "u" -1
+spacingpair " " "h" 6
+spacingpair " " "n" 6
+spacingpair " " "r" 6
+spacingpair "p" "o" -1
+spacingpair " " "f" 6
+spacingpair " " "i" 6
+spacingpair " " "u" 6
+spacingpair " " "o" 6
+spacingpair " " "d" 6
+spacingpair " " "t" 6
+spacingpair " " "v" 6
+spacingpair " " "" -45
+]animation holds no responsibility for its usage or distribution to various hosting [
+x 0
+y 2140
+spacing "i" -1
+spacingpair " " " " 65
+spacingpair " " "L" 65
+spacingpair " " "f" 65
+spacingpair " " "i" 65
+spacingpair " " "s" 65
+spacingpair " " "D" 65
+spacingpair "C" "H" -1
+spacingpair "B" "A" -1
+spacingpair " " "A" 65
+spacingpair " " "l" 65
+spacingpair "k" "e" -1
+spacingpair "u" "n" -1
+spacingpair " " "o" 65
+spacingpair " " "" -46
+]websites.  Let's face it, some DOUCHEBAG, ASSHOLE site like funnygames or [
+x 0
+y 2600
+spacing "i" -1
+spacing "p" -1
+spacingpair " " "o" 2
+spacingpair " " "i" 2
+spacingpair " " "5" 2
+spacingpair " " "c" 2
+spacingpair " " "a" 2
+spacingpair " " "g" 2
+spacingpair " " "t" 2
+spacingpair " " "p" 2
+spacingpair " " "f" 2
+spacingpair " " "l" 2
+spacingpair " " "" -47
+]any of its 5,000 clones are going to probably poach this flash from a legitimately [
+x 0
+y 3040
+spacing "d" -1
+spacing "u" -1
+spacingpair " " "s" 117
+spacingpair "i" "t" -1
+spacingpair " " "a" 117
+spacingpair " " "n" 117
+spacingpair " " "o" 117
+spacingpair " " "l" 117
+spacingpair "k" "r" -1
+spacingpair " " " " 117
+spacingpair " " "I" 117
+spacingpair " " "y" 117
+spacingpair " " "" -48
+]hosted site such as newgrounds.com or legendofkrystal.com.  If you aren't [
+x 0
+y 3500
+spacing "i" -1
+spacingpair " " "i" 57
+spacingpair " " "a" 57
+spacingpair " " "o" 57
+spacingpair " " "t" 57
+spacingpair "d" " " -1
+spacingpair " " "s" 57
+spacingpair " " "y" 57
+spacingpair "u" " " -1
+spacingpair " " "p" 57
+spacingpair "p" "r" -1
+spacingpair " " "n" 57
+spacingpair " " "" -39
+]viewing it at one of the two afformentioned sites, then you are probably not [
+x 0
+y 3960
+spacing "p" -1
+spacing "i" -1
+spacing "d" -1
+spacing "u" -1
+spacingpair " " "t" 58
+spacingpair " " "l" 58
+spacingpair " " "v" 58
+spacingpair " " "d" 58
+spacingpair " " "s" 58
+spacingpair " " "D" 58
+spacingpair "C" "H" -1
+spacingpair "B" "A" -1
+spacingpair " " "p" 58
+spacingpair " " " " 58
+spacingpair " " "S" 58
+spacingpair " " "w" 58
+spacingpair " " "" -48
+]playing the latest version due to said DOUCHEBAG poaching.  Seriously, why [
+x 0
+y 4400
+spacing "p" -1
+spacing "i" -1
+spacingpair " " "y" 57
+spacingpair "u" " " -1
+spacingpair " " "p" 57
+spacingpair " " "t" 57
+spacingpair " " "a" 57
+spacingpair " " "s" 57
+spacingpair "d" "v" -1
+spacingpair " " "o" 57
+spacingpair " " "i" 57
+spacingpair " " "m" 57
+spacingpair " " "l" 57
+spacingpair "k" "e" -1
+spacingpair " " "" -40
+]are you playing this at some advertising spamfest of a site that is most likely [
+x 0
+y 4860
+spacing "i" -1
+spacing "u" -1
+spacing "d" -1
+spacingpair " " "y" 4
+spacingpair " " "c" 4
+spacingpair "p" "u" -1
+spacingpair " " "H" 4
+spacingpair " " "w" 4
+spacingpair " " "j" 4
+spacingpair " " "g" 4
+spacingpair " " "t" 4
+spacingpair " " "n" 4
+spacingpair " " "o" 4
+spacingpair " " "l" 4
+spacingpair "k" " " -1
+spacingpair " " "a" 4
+spacingpair " " "" -49
+]giving your computer HERPES when you could just go to newgrounds or lok and [
+x 0
+y 5320
+spacing "p" -1
+spacing "i" -1
+spacing "u" -1
+spacingpair " " "i" 80
+spacingpair " " "f" 80
+spacingpair " " "a" 80
+spacingpair " " "s" 80
+spacingpair " " "c" 80
+spacingpair " " "e" 80
+spacingpair " " "A" 80
+spacingpair " " "y" 80
+spacingpair " " "t" 80
+spacingpair "d" "?" -1
+spacingpair " " "" -90
+]play it for free in a safe, clean environment. [space 80] Are you seriously that stupid? [space -48] [
+x 0
+y 5760
+spacing "d" -1
+spacingpair "u" "l" -1
+]Goddamn retards.  Anyway.  Adults only.

@@ -1,0 +1,19 @@
+[
+xmin -40
+ymin -40
+xmax 1553
+ymax 1024
+multiline 1
+readonly 1
+noselect 1
+wasstatic 1
+useoutlines 1
+font 4
+height 360
+color #7f663300
+align left
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]DEATHREACH

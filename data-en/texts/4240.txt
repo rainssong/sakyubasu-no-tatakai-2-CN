@@ -1,0 +1,14 @@
+[
+xmin 9
+ymin 10
+xmax 663
+ymax 223
+][
+font 896
+height 220
+color #ff3333
+y 200
+spacing "R" 10
+spacingpair "E" "R" 8
+spacingpair "O" "" -39
+]ERRO

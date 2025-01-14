@@ -1,0 +1,16 @@
+[
+xmin 3266
+ymin 187
+xmax 12959
+ymax 1669
+][
+font 4
+height 1440
+color #64ff64
+x 3220
+y 1300
+spacingpair "i" "l" -1
+spacingpair "k" "y" -1
+spacingpair "y" " " -1
+spacingpair "W" "a" -1
+]Milky Wave

@@ -1,0 +1,11 @@
+[
+xmin 8
+ymin -5
+xmax 2168
+ymax 223
+][
+font 4
+height 220
+color #ffffff
+y 200
+]Mission Available

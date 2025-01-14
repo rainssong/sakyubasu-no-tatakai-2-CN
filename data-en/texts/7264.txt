@@ -1,0 +1,14 @@
+[
+xmin 240
+ymin 187
+xmax 12959
+ymax 1669
+][
+font 4
+height 1440
+color #ff3232
+x 200
+y 1300
+spacingpair "o" "u" -1
+spacingpair "s" "e" -1
+]Slaughterhouse

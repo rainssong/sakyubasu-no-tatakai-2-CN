@@ -1,0 +1,12 @@
+[
+xmin 47
+ymin 17
+xmax 577
+ymax 347
+][
+font 4
+height 360
+color #b39348
+x 40
+y 320
+]L

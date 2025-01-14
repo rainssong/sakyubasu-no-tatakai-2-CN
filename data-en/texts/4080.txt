@@ -1,0 +1,11 @@
+[
+xmin 7
+ymin -2
+xmax 807
+ymax 241
+][
+font 4
+height 240
+color #333333
+y 220
+]Skill:

@@ -1,0 +1,19 @@
+[
+xmin 698
+ymin 17
+xmax 2350
+ymax 656
+translatex 688
+][
+font 4
+height 360
+color #000000
+x 340
+y 320
+]FIRE[
+font 4
+height 160
+x 0
+y 600
+spacingpair "K" "E" -1
+]BOOST / WEAKEN

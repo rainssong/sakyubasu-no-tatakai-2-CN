@@ -1,0 +1,12 @@
+[
+xmin 57
+ymin 17
+xmax 669
+ymax 347
+][
+font 4
+height 360
+color #ffffff
+x 40
+y 320
+]H

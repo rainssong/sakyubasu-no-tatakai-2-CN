@@ -1,0 +1,19 @@
+[
+xmin 498
+ymin 17
+xmax 2547
+ymax 656
+translatex 491
+][
+font 4
+height 360
+color #000000
+x 400
+y 320
+spacingpair "N" "D" -1
+]WIND[
+font 4
+height 160
+x 0
+y 600
+]WARCRY / INTIMIDATE

@@ -1,0 +1,17 @@
+[
+xmin 5510
+ymin 187
+xmax 12959
+ymax 1669
+][
+font 4
+height 1440
+letterspacing -1
+color #cc0000
+x 5440
+y 1300
+spacingpair "H" "o" 1
+spacingpair "l" "i" 1
+spacingpair "n" "g" 1
+spacingpair "g" "" 1
+]Howling

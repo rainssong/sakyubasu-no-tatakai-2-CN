@@ -1,0 +1,13 @@
+[
+xmin 4520
+ymin 187
+xmax 12959
+ymax 1669
+][
+font 4
+height 1440
+color #870087
+x 4440
+y 1300
+spacingpair "o" "v" -1
+]Hangover

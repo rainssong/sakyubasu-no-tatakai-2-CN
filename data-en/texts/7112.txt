@@ -1,0 +1,15 @@
+[
+xmin 4308
+ymin 187
+xmax 12959
+ymax 1345
+][
+font 4
+height 1440
+color #ff9999
+x 4280
+y 1300
+spacingpair "o" "x" -1
+spacingpair "i" "c" -1
+spacingpair "s" "t" -1
+]Toxic Lust

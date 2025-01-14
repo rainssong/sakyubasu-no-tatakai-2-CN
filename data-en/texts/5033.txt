@@ -1,0 +1,15 @@
+[
+xmin 98
+ymin 4
+xmax 1541
+ymax 639
+][
+font 4
+height 280
+color #000000
+x 160
+y 260
+]SELECT[
+x 100
+y 620
+]TARGET

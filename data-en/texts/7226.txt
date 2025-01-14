@@ -1,0 +1,14 @@
+[
+xmin 3471
+ymin 187
+xmax 12959
+ymax 1345
+][
+font 4
+height 1440
+color #ffff66
+x 3400
+y 1300
+spacing "o" -1
+spacingpair "d" "l" -1
+]Bloodletter

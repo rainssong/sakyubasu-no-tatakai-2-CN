@@ -1,0 +1,18 @@
+[
+xmin 1676
+ymin 187
+xmax 12959
+ymax 1669
+][
+font 4
+height 1440
+letterspacing -1
+color #996699
+x 1740
+y 1300
+spacingpair "n" " " 1
+spacingpair " " "R" 1
+spacingpair "g" "h" 1
+spacingpair "h" "t" 1
+spacingpair "t" "s" 1
+]Admin Rights

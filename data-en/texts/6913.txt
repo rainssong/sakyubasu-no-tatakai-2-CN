@@ -1,0 +1,14 @@
+[
+xmin 3755
+ymin 187
+xmax 12959
+ymax 1669
+][
+font 4
+height 1440
+color #339900
+x 3680
+y 1300
+spacingpair "y" " " -1
+spacingpair "m" "" -1
+]Day Dream

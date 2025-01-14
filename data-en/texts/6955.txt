@@ -1,0 +1,14 @@
+[
+xmin 220
+ymin 187
+xmax 15239
+ymax 1669
+][
+font 4
+height 1440
+color #996699
+x 140
+y 1300
+spacingpair "i" "n" -1
+spacingpair "k" "" -1
+]Dagger in the Dark

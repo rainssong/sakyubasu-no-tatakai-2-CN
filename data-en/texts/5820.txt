@@ -1,0 +1,15 @@
+[
+xmin 6
+ymin -8
+xmax 421
+ymax 149
+][
+font 896
+height 140
+color #990000
+y 120
+spacingpair "F" "U" 5
+spacingpair "U" "C" -10
+spacingpair "C" "K" -12
+spacingpair "K" "" 14
+]FUCK

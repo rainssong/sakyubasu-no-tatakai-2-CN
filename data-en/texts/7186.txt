@@ -1,0 +1,16 @@
+[
+xmin 1838
+ymin 187
+xmax 12959
+ymax 1345
+][
+font 4
+height 1440
+color #cc0000
+x 1760
+y 1300
+spacingpair "d" " " -1
+spacingpair "P" "l" -1
+spacingpair "s" "m" -1
+spacingpair "m" "a" -1
+]Dread Plasma

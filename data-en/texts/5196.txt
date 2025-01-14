@@ -1,0 +1,12 @@
+[
+xmin 2056
+ymin -2
+xmax 3110
+ymax 241
+translatex 2061
+][
+font 4
+height 240
+color #cccccc
+y 220
+]Attack

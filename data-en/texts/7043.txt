@@ -1,0 +1,13 @@
+[
+xmin 6395
+ymin 187
+xmax 12959
+ymax 1669
+][
+font 4
+height 1440
+color #996699
+x 6340
+y 1300
+spacingpair "y" "" -1
+]Lullaby

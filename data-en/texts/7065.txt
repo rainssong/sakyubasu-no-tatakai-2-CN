@@ -1,0 +1,20 @@
+[
+xmin 2417
+ymin 187
+xmax 14639
+ymax 1345
+][
+font 4
+height 1440
+letterspacing -1
+color #cc0000
+x 2360
+y 1300
+spacingpair "M" "a" 1
+spacingpair "a" "d" 1
+spacingpair " " "O" 1
+spacingpair "O" "b" 1
+spacingpair "b" "s" 1
+spacingpair "e" "s" 1
+spacingpair "n" "" 1
+]Mad Obsession

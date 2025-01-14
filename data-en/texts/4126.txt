@@ -1,0 +1,12 @@
+[
+xmin 10
+ymin -9
+xmax 652
+ymax 204
+][
+font 4
+height 200
+color #333333
+y 180
+spacingpair "m" "" -1
+]Item

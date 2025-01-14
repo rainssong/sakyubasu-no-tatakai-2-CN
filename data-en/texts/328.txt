@@ -1,0 +1,20 @@
+[
+xmin -401
+ymin -40
+xmax 6100
+ymax 1078
+multiline 1
+readonly 1
+noselect 1
+wasstatic 1
+useoutlines 1
+font 4
+height 240
+color #ff663300
+align center
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]"The Overlord hears all"Positioned by the entry to the west, the Ear 
+functions as the Nether's main public forum.

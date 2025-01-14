@@ -1,0 +1,16 @@
+[
+xmin 2064
+ymin 187
+xmax 12959
+ymax 1345
+][
+font 4
+height 1440
+color #870087
+x 2000
+y 1300
+spacing "!" -1
+spacingpair "A" "R" -1
+spacingpair "R" " " -1
+spacingpair "F" "I" -1
+]BAR FIGHT!!!

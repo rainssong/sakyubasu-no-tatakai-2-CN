@@ -1,0 +1,19 @@
+[
+xmin -242
+ymin -40
+xmax 3402
+ymax 614
+multiline 1
+readonly 1
+noselect 1
+wasstatic 1
+useoutlines 1
+font 4
+height 200
+color #ff333333
+align center
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]Enemy type: EsurienRune Chance: Earth II (25%)

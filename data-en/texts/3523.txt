@@ -1,0 +1,22 @@
+[
+xmin 2289
+ymin -21
+xmax 2973
+ymax 369
+translatex 2292
+][
+font 4
+height 120
+color #000000
+y 100
+spacing "N" -1
+]ANYONE[
+x 140
+y 220
+spacingpair "C" "A" -1
+spacingpair "N" "" -1
+]CAN[
+x 60
+y 340
+spacingpair "C" "O" -1
+]COOK!

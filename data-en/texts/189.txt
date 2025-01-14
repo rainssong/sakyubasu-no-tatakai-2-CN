@@ -1,0 +1,17 @@
+[
+xmin 134
+ymin 17
+xmax 1584
+ymax 882
+][
+font 4
+height 360
+color #ccb581
+x 120
+y 320
+spacingpair "d" "" -1
+]World[
+x 300
+y 780
+spacingpair "p" "" -1
+]Map

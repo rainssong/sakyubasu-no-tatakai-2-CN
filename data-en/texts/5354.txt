@@ -1,0 +1,16 @@
+[
+xmin -1383
+ymin 181
+xmax 5500
+ymax 1624
+translatex -1377
+][
+font 4
+height 1400
+color #ffffff
+y 1280
+spacingpair "i" "c" -1
+spacingpair "o" "r" -1
+spacingpair "y" "!" -1
+spacingpair "!" "" -1
+]Victory!

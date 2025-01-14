@@ -1,0 +1,16 @@
+[
+xmin 1
+ymin -7
+xmax 549
+ymax 167
+][
+font 896
+height 160
+color #ff3333
+y 140
+spacingpair "x" "?" 16
+spacingpair "?" "%" 9
+spacingpair "%" "6" -26
+spacingpair "6" "^" -2
+spacingpair "^" "" -29
+]x?%6^

@@ -1,0 +1,19 @@
+[
+xmin 236
+ymin 17
+xmax 2811
+ymax 656
+translatex 227
+][
+font 4
+height 360
+color #000000
+x 660
+y 320
+spacingpair "K" "" -1
+]DARK[
+font 4
+height 160
+x 0
+y 600
+]RALLYCRY / THUNDERSTORM

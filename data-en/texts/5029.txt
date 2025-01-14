@@ -1,0 +1,16 @@
+[
+xmin 143
+ymin 4
+xmax 1501
+ymax 639
+][
+font 4
+height 280
+color #000000
+x 280
+y 260
+spacingpair "i" "n" -1
+]Begin[
+x 140
+y 620
+]Combat

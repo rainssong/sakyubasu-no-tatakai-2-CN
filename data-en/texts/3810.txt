@@ -1,0 +1,17 @@
+[
+xmin 752
+ymin 17
+xmax 2476
+ymax 656
+translatex 737
+][
+font 4
+height 360
+color #000000
+y 320
+]WATER[
+font 4
+height 160
+x 20
+y 600
+]REGEN / POISON

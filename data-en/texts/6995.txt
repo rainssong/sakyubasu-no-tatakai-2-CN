@@ -1,0 +1,18 @@
+[
+xmin 2349
+ymin 187
+xmax 12959
+ymax 1669
+][
+font 4
+height 1440
+letterspacing -1
+color #ffff99
+x 2380
+y 1300
+spacingpair "u" " " 1
+spacingpair " " "D" 1
+spacingpair "D" "o" 1
+spacingpair "n" "k" 1
+spacingpair "e" "y" 1
+]You Donkey!

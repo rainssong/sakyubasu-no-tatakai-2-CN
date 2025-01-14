@@ -1,0 +1,15 @@
+[
+xmin 2965
+ymin 187
+xmax 12959
+ymax 1345
+][
+font 4
+height 1440
+color #ff9999
+x 2900
+y 1300
+spacing "i" -1
+spacingpair "d" " " -1
+spacingpair "s" "i" -1
+]Blind Desire

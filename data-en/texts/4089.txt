@@ -1,0 +1,13 @@
+[
+xmin 37
+ymin -2
+xmax 2110
+ymax 295
+][
+font 4
+height 240
+color #333333
+x 20
+y 220
+spacingpair "v" "a" -1
+]Binding to Eva:

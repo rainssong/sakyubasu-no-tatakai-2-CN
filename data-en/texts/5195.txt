@@ -1,0 +1,12 @@
+[
+xmin 2115
+ymin -2
+xmax 3110
+ymax 295
+translatex 2100
+][
+font 4
+height 240
+color #cccccc
+y 220
+]Range

@@ -1,0 +1,15 @@
+[
+xmin 11
+ymin 10
+xmax 678
+ymax 223
+][
+font 896
+height 220
+color #ff3333
+y 200
+spacingpair "H" "A" -4
+spacingpair "A" "C" -19
+spacingpair "C" "K" -18
+spacingpair "K" "" 21
+]HACK

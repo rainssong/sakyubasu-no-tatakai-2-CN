@@ -1,0 +1,13 @@
+[
+xmin 47
+ymin 176
+xmax 7739
+ymax 1162
+][
+font 4
+height 1240
+color #cc0000
+y 1120
+spacingpair "W" "A" -1
+spacingpair "A" "R" -1
+]WARNING
